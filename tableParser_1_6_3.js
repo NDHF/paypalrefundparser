@@ -9,7 +9,6 @@ console.log(
     "IN DEVELOPMENT" + "\n" +
     "UPDATES FROM VERSION 1.6.2 \n" +
     " * General code cleanup. \n" +
-    "CURRENT RELEASE 1.6.2: 12/27/2019" + "\n" +
     "UPDATES FROM VERSION 1.6.1 \n" +
     " * Streamlined E-Mail Generator, now users only need to \n" +
     "click the button to generate an email \n" +
