@@ -1,7 +1,6 @@
 // THE REFUND TOOLKIT
 // VERSION 1.6.3
 // BY NICHOLAS BERNHARD
-// NICHOLAS@POOLDAWG.COM
 
 console.log(
     "THE REFUND TOOLKIT" + "\n" +
@@ -176,14 +175,14 @@ document.addEventListener("DOMContentLoaded", function () {
         let orderNumber = getById("orderNumberInput").value;
 
         let emailContent = "mailto:[email address]" + "?" +
-        "Subject=PoolDawg Return Info ([Order Number Subject Line])" +
+        "Subject=***COMPANY*** Return Info ([Order Number Subject Line])" +
         "&" + "body=" +
          "Dear [name]," + "%0D%0A" +
         " " + "%0D%0A" +
         "Here is your return information. Please send your return shipment " +
         "to the following address:" + "%0D%0A" +
         " " + "%0D%0A" +
-        "PoolDawg Returns" + "%0D%0A" +
+        "***COMPANY***" + "%0D%0A" +
         "[RA Number]" + "%0D%0A" +
         "1380 Overlook Dr." + "%0D%0A" +
         "Lafayette, CO 80026" + "%0D%0A" +
